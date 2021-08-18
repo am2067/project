@@ -1,3 +1,10 @@
 h1{
-  text-align:center;
-} 
+				text-align: center;
+}
+body {
+				background-color:#ffffff;
+				font-family: 'times new roman', times, serif;
+				font-size: 21px;
+}
+
+
